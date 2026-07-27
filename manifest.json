@@ -1,0 +1,9 @@
+{
+  "name": "Meu Site Premium",
+  "short_name": "Meu Site Pre",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#06070b",
+  "theme_color": "#8b5dff",
+  "lang": "pt-BR"
+}
